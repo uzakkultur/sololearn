@@ -1,0 +1,9 @@
+C:\Users\Safa\Desktop\coding\Nuri\Nuri\bin\Debug\Nuri.exe.config
+C:\Users\Safa\Desktop\coding\Nuri\Nuri\bin\Debug\Nuri.exe
+C:\Users\Safa\Desktop\coding\Nuri\Nuri\bin\Debug\Nuri.pdb
+C:\Users\Safa\Desktop\coding\Nuri\Nuri\obj\Debug\Nuri.csprojResolveAssemblyReference.cache
+C:\Users\Safa\Desktop\coding\Nuri\Nuri\obj\Debug\Nuri.exe
+C:\Users\Safa\Desktop\coding\Nuri\Nuri\obj\Debug\Nuri.pdb
+C:\Users\Safa\Desktop\github\sololearn\Nuri\bin\Debug\Nuri.exe.config
+C:\Users\Safa\Desktop\github\sololearn\Nuri\obj\Debug\Nuri.exe
+C:\Users\Safa\Desktop\github\sololearn\Nuri\obj\Debug\Nuri.pdb
